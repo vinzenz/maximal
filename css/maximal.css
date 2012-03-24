@@ -82,12 +82,12 @@
 
 .maximal #bottom-box {
 	clear: both;
-	width: 100%;
-	text-align: right;
+	width: 25%;
+	float: right;
+	text-align: center;
 }
 
 .maximal #bottom-box strong {
-	margin-right: 4em;
 	color: whiteSmoke;
 	line-height: 2em;	
 	font-size: 0.85em;
